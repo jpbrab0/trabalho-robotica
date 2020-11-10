@@ -1,0 +1,7 @@
+main{
+    width: 100%;
+}
+main .center-text{
+    margin: 32px auto;
+    width: 35%;
+}

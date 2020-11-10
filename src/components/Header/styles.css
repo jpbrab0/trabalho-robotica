@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    margin-top: 18px;
+    justify-content: space-around;
+    align-items: center;
+}
+.links a + a{
+    margin-left: 13px;
+}
+header .links a{
+    text-decoration: none;
+    color: #f0f0f0;
+    transition: all 0.3s ease-in-out;
+}
+header .links a:hover{
+    color: rgb(88, 228, 228);
+}
